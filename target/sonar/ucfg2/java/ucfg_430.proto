@@ -1,0 +1,90 @@
+
+^org.apache.jsp.uid.clientinfo_jsp#_jsp_getInstanceManager()Lorg/apache/tomcat/InstanceManager;å
+Å/home/ubuntu/repos/devsecops-jenkins-k8s-tf-sast-sca-sonarcloud-snyk-repo/target/sonar/jsp/org/apache/jsp/uid/clientinfo_jsp.javaF+ F(B"5*⁄
+2J! J($’“
+Je J(w!
+%4javax.servlet.ServletConfig"Ljavax.servlet.GenericServlet#getServletConfig()Ljavax/servlet/ServletConfig;*A
+
+__unknown_file (%#
+!org.apache.jsp.uid.clientinfo_jsp2getServletConfig()—
+Œ
+J! J(x'
+%5!org.apache.tomcat.InstanceManager"Öorg.apache.jasper.runtime.InstanceManagerFactory#getInstanceManager(Ljavax/servlet/ServletConfig;)Lorg/apache/tomcat/InstanceManager;*P
+
+__unknown_file (4"2
+0org.apache.jasper.runtime.InstanceManagerFactory*?
+
+__unknown_file (#
+!
+%4javax.servlet.ServletConfigô
+ñ
+J
+ J(x=#
+!org.apache.jsp.uid.clientinfo_jsp"
+_jsp_instancemanager"__id*E
+
+__unknown_file ()
+'
+%5!org.apache.tomcat.InstanceManager*
+1*Í
+3I I( ô
+ñ
+I I( '
+%2!org.apache.tomcat.InstanceManager"__id*[
+
+__unknown_file (?*=#
+!org.apache.jsp.uid.clientinfo_jsp"
+_jsp_instancemanager∂
+≥
+I I((
+%3boolean"	__compare*"
+
+__unknown_file (
+==*E
+
+__unknown_file ()
+'
+%2!org.apache.tomcat.InstanceManager*"
+
+__unknown_file (
+""*
+2
+1*Í
+5G G(ô
+ñ
+G G('
+%0!org.apache.tomcat.InstanceManager"__id*[
+
+__unknown_file (?*=#
+!org.apache.jsp.uid.clientinfo_jsp"
+_jsp_instancemanager∂
+≥
+G G($
+%1boolean"	__compare*"
+
+__unknown_file (
+==*E
+
+__unknown_file ()
+'
+%0!org.apache.tomcat.InstanceManager*"
+
+__unknown_file (
+""*
+3
+1*‡
+1N N(ô
+ñ
+N N('
+%6!org.apache.tomcat.InstanceManager"__id*[
+
+__unknown_file (?*=#
+!org.apache.jsp.uid.clientinfo_jsp"
+_jsp_instancemanager"5
+N N( )
+'
+%6!org.apache.tomcat.InstanceManager:*
+
+__unknown_file (
+%jsp_contextB%#
+!org.apache.jsp.uid.clientinfo_jspH
